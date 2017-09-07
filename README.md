@@ -9,7 +9,7 @@
 
 ![](https://github.com/nodeapps/http-server/raw/master/screenshots/public.png)
 
-# Installing globally:
+# nstalling globally:
 
 Installation via `npm`:
 
